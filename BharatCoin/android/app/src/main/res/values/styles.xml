@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:editTextBackground">@android:color/transparent</item>
+        <item name="colorPrimary">#1A56DB</item>
+        <item name="colorPrimaryDark">#0D1B4B</item>
+        <item name="colorAccent">#00C2FF</item>
+    </style>
+</resources>
